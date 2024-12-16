@@ -1,0 +1,246 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #f8f8f8;
+    padding: 20px;
+    text-align: center;
+}
+.logo {
+    font-size: 36px; /* Adjust the size as needed */
+    font-weight: bold; /* Optional: make the text bold */
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+.hero {
+    background-color: #ff4081;
+    color: white;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.cta-button {
+    background-color: white;
+    color: #ff4081;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.introduction, .featured-services, .call-to-action {
+    padding: 20px;
+    text-align: center;
+}
+
+.featured-services ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+footer .social-media a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+}
+.about-us, .our-team, .why-choose-us {
+    padding: 20px;
+    text-align: center;
+}
+
+.team-member {
+    margin: 20px 0;
+}
+
+.team-member h3 {
+    margin: 10px 0;
+}
+
+.why-choose-us ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.why-choose-us li {
+    margin: 10px 0;
+}
+.portfolio {
+    padding: 20px;
+    text-align: center;
+}
+
+.portfolio h1 {
+    color: #ff4081;
+}
+
+.portfolio-item {
+    margin: 20px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    transition: transform 0.2s;
+}
+
+.portfolio-item:hover {
+    transform: scale(1.05);
+}
+
+.portfolio-item img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.portfolio-item h2 {
+    color: #333;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+footer .social-media a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+}
+.testimonials {
+    padding: 20px;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+.testimonials h1 {
+    color: #ff4081;
+    margin-bottom: 20px;
+}
+
+.testimonial-item {
+    margin: 20px 0;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: white;
+    transition: transform 0.2s;
+}
+
+.testimonial-item:hover {
+    transform: scale(1.02);
+}
+
+.testimonial-item p {
+    font-style: italic;
+    color: #555;
+}
+
+.testimonial-item h3 {
+    margin-top: 10px;
+    color: #333;
+}
+.services {
+    padding: 20px;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+.services h1 {
+    color: #ff4081;
+    margin-bottom: 20px;
+}
+
+.service-item {
+    margin: 20px 0;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: white;
+    transition: transform 0.2s;
+}
+
+.service-item:hover {
+    transform: scale(1.02);
+}
+
+.service-item h2 {
+    color: #333;
+}
+
+.service-item p {
+    color: #555;
+}
+.contact {
+    padding: 20px;
+    text-align: center;
+}
+
+.form-group {
+    margin: 15px 0;
+    text-align: left;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.submit-button {
+    background-color: #ff4081;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.submit-button:hover {
+    background-color: #e63972;
+}
+
+.contact-info {
+    margin-top: 30px;
+    text-align: left;
+}
+
+.contact-info h2 {
+    color: #333;
+}
+
+.contact-info p {
+    margin: 5px  0;
+}
+
+.social-media a {
+    margin-right: 10px;
+    color: #ff4081;
+    text-decoration: none;
+}
